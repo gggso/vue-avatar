@@ -86,6 +86,6 @@ export default {
 - Tencent QQ : 28040824
 - E-mail: me@gggso.com
 - 基于 [jinzhe](https://github.com/jinzhe/vue-upload) 版修改 
-1 升级为支持2.0
-2 格式化了js
-3 css 修改为使用 stylus css
+    - 升级为支持2.0
+    - 格式化了js
+    - css 修改为使用 stylus css
